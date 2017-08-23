@@ -12,7 +12,11 @@
   <!-- Binaries for tools, etc. -->
   <property name="bin"     location="bin"     />
   
+<<<<<<< HEAD
   <!-- We rely on ANTLR 4.5.3  -->
+=======
+  <!-- We rely on ANTLR 2.7.7  -->
+>>>>>>> 3a3bbef0c9cd090694cf5061dea9d9e857f1cac7
   
   <!-- Build up a path structure for a classpath 
        that includes the binaries (jars) in bin/ and 
